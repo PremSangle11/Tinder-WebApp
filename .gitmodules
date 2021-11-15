@@ -1,0 +1,6 @@
+[submodule "tinder-clone"]
+	path = tinder-clone
+	url = https://github.com/PremSangle11/tinder-clone.git
+[submodule "tinder-backend"]
+	path = tinder-backend
+	url = https://github.com/PremSangle11/tinder-backend.git
